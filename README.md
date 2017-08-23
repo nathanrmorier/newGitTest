@@ -5,3 +5,15 @@ Learnin' me sum Git! lurnin' from here: https://www.youtube.com/watch?v=0fKg7e37
 To open command on Mac: Utilities > Applications > Terminal
 
 To open command on Windows: Run > type "CMD" and press "ENTER"
+
+===COMMANDS===
+
+ • cd (means change directory) so typing "cd .." will go up a directory, the space after "cd" is important.
+"cd directoryName/nextDirectoryName" takes you there.
+
+• ls (LS) gives a list of all files in current directory. In windows it's "dir", unless you have fake linux mac commands installed.
+
+• to get the repository, get the clone URL with "git clone https://github.com/nathanrmorier/newGitTest.git"
+clone is your first git command.
+
+• "git status" this will show what's different from local file, and what's online

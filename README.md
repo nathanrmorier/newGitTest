@@ -6,7 +6,7 @@ To open command on Mac: Utilities > Applications > Terminal
 
 To open command on Windows: Run > type "CMD" and press "ENTER"
 
-===COMMANDS===
+====COMMANDS====
 
  • cd (means change directory) so typing "cd .." will go up a directory, the space after "cd" is important.
 "cd directoryName/nextDirectoryName" takes you there.
@@ -22,4 +22,4 @@ clone is your first git command.
 
 • Locking it into repository 'git commit -m "I added a file yall"' (the -m means you're adding a message)
 
-• to actually sync it up us "git push" to upload onto repository.
+• to actually sync it up us "git push" to upload onto repository....

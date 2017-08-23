@@ -18,8 +18,8 @@ clone is your first git command.
 
 • "git status" this will show what's different from local file, and what's online
 
-• "git add FILE.NAME" which means we're going to add any new files or changes by name, you would then enter the file name.
+• "git add FILE.NAME" which means we're going to add any new files or changes by name, you would then enter the file name. You can add multiple files with “git add <filename1> <filename2>” or you can add all from the folder with “git add .”.
 
-• Locking it into reposetory 'git commit -m "I added a file yall"' (the -m means you're adding a message)
+• Locking it into repository 'git commit -m "I added a file yall"' (the -m means you're adding a message)
 
-• to actually sync it up us "git push" to upload onto reposetory.
+• to actually sync it up us "git push" to upload onto repository.

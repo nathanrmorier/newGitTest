@@ -7,6 +7,7 @@
 			<li>Bread</li>
 			<li>Bacon</li>
 			<?php echo ‘<li>A little php for ya?</li>’; ?>
+			<li>Just Push it!</li>
 		</ul>
 	</body>
 </html>
